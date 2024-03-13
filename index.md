@@ -8,6 +8,10 @@
   that software with source code that anyone can inspect, modify, and enhance.<br>
   *From: [opensource.com](https://opensource.com/resources/what-open-source)*
 
+* OSS does not always mean it's non-commercial.
+
+* Still, most of them are `Free and Open Source Software` (FOSS)
+
 ## 2024
 ### March
 * [Week 1](docs/2024-03-12.html)
