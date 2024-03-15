@@ -15,3 +15,4 @@
 ## 2024
 ### March
 * [Week 1](docs/2024-03-12.html)
+* [Week 2](docs/2024-03-15.html)
